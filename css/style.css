@@ -27,7 +27,13 @@ p{
 }
 .result{
   text-align: center;
-  margin:2%;
-  width: auto;
-  padding: 10%;
+  width: 100%;
+  padding: 0%;
+  font-family:"Akronim";
+  color:#5AD09E;
+  font-size: 4em;
+}
+.button1{
+  text-align: center;
+    width: 100%;
 }
