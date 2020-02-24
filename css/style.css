@@ -1,0 +1,33 @@
+body{
+  background-color:#36343F;
+  text-align: center;
+}
+h1{
+  color:#5AD09E;
+  font-family:"Akronim";
+  font-weight: "bold";
+  font-size: 5rem;
+
+}
+.container-fluid{
+  /* border: 10px solid white; */
+  text-align: center;
+  height: 400px;
+  width: 600px;
+  padding: 3%;
+}
+p{
+  color:#5AD09E;
+  font-family:"Akronim";
+  font-size: 3em;
+  width: 200px;
+}
+.dice1{
+  margin-right: 35%;
+}
+.result{
+  text-align: center;
+  margin:2%;
+  width: auto;
+  padding: 10%;
+}
